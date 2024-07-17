@@ -6,8 +6,8 @@ Ce projet est réalisé dans le cadre du cours "Modification d'un système éxis
 
    - HTML
    - JavaScript
-   -[Bulma](https://bulma.io/)
-   -[Svelte](https://svelte.dev/)
+   - [Bulma](https://bulma.io/)
+   - [Svelte](https://svelte.dev/)
 
 ## Demarrer un projet Svelte
 - A installer
